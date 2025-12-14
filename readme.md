@@ -146,11 +146,11 @@ I developed **70-75% of the code myself**. I used AI (Claude) for specific techn
 ## Self-Assessment
 
 **What I Did Myself:**
-- ✅ Complete HTML structure
-- ✅ Most CSS styling and layout
-- ✅ Responsive design implementation
-- ✅ JavaScript logic (after understanding concepts)
-- ✅ File organization
+- Complete HTML structure
+- Most CSS styling and layout
+- Responsive design implementation
+- JavaScript logic (after understanding concepts)
+- File organization
 
 **What AI Helped With:**
 - Specific CSS/JS techniques I hadn't learned yet
@@ -158,7 +158,7 @@ I developed **70-75% of the code myself**. I used AI (Claude) for specific techn
 
 **Overall:** ~70-75% independent work, AI assisted with specific concepts
 
-## 👤 Developer
+## Developer
 
 **Name:** Ashray Poudel
 **Course:** Basic Web Development  
