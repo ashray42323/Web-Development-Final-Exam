@@ -1,14 +1,14 @@
 # King's College - In the Area
 ## Web Development Exam Project
 
-## 📋 Project Requirements
+## Project Requirements
 
-1. ✅ Create pixel perfect design
-2. ✅ Add a button that will alternate the design
-3. ✅ Mobile responsive
-4. ✅ Font Family => Lora
+1.  Create pixel perfect design
+2.  Add a button that will alternate the design
+3.  Mobile responsive
+4.  Font Family => Lora
 
-## 🗂️ Project Structure
+## Project Structure
 
 project-folder/
 ├── index.html          # Main HTML structure
@@ -18,14 +18,14 @@ project-folder/
 └── README.md           # Documentation
 
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **HTML5** - Semantic structure
 - **CSS3** - Styling, transitions, responsive design
 - **JavaScript (ES3)** - Toggle functionality
 - **Google Fonts** - Lora font family
 
-## 🔧 My Development Process
+## My Development Process
 
 ### HTML (index.html)
 I created the basic structure with:
@@ -143,7 +143,7 @@ I developed **70-75% of the code myself**. I used AI (Claude) for specific techn
 **Challenge 3: Responsive Design**
 - Implemented `clamp()` and media queries
 
-## 📝 Self-Assessment
+## Self-Assessment
 
 **What I Did Myself:**
 - ✅ Complete HTML structure
